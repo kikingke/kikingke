@@ -3,7 +3,7 @@
 <h3 align="center">Ingeniero en Sistemas Full Stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/kikingke&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/kikingke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://miro.medium.com/v2/resize:fit:820/1*TED4KCpZQSN870Zsmi4Fvw.png" alt="https://github.com/kikingke" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://miro.medium.com/v2/resize:fit:820/1*TED4KCpZQSN870Zsmi4Fvw.png" alt="https://github.com/kikingke" width="200" /></a> </p>
 
 - 🔭 I’m currently working on [Xilo System](https://github.com/kikingke/xilopro2) (.net project)
 - 🌱 I’m currently learning **Laravel, React**

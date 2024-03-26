@@ -3,15 +3,15 @@
 <h3 align="center">Ingeniero en Sistemas Full Stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/kikingke&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/kikingke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/kikingke&theme=" alt="https://github.com/kikingke" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://miro.medium.com/v2/resize:fit:820/1*TED4KCpZQSN870Zsmi4Fvw.png" alt="https://github.com/kikingke" /></a> </p>
 
-- 🔭 I’m currently working on [Xilo System](https://github.com/kikingke/xilopro2)
-- 🌱 I’m currently learning **Laravel**
+- 🔭 I’m currently working on [Xilo System](https://github.com/kikingke/xilopro2) (.net project)
+- 🌱 I’m currently learning **Laravel, React**
 
 - 📫 How to reach me **eabucam@gmail.com**
-- 👨‍💻 All of my projects are available at **https://aburtocampos.blogspot.com**
+- 👨‍💻 Some of my projects are available at **https://aburtocampos.blogspot.com**
 - 📝 I regularly write articles on **https://aburtocampos.blogspot.com/search?max-results=8**
-- 📄 Know about my experiences **https://raburto.netlify.app/**
+- 📄 Know about my professional experiences **https://raburto.netlify.app/**
 
 <div> <a href="https://twitter.com/https://twitter.com/raburtocampos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aburtocampos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

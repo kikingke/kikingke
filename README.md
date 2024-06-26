@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://miro.medium.com/v2/resize:fit:820/1*TED4KCpZQSN870Zsmi4Fvw.png" alt="https://github.com/kikingke" width="200" /></a> </p>
 
 - 🔭 I’m currently working on [Xilo System](https://github.com/kikingke/xilopro2) (.net project)
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **eabucam@gmail.com**
 - 👨‍💻 Some of my projects are available at **https://aburtocampos.blogspot.com**
